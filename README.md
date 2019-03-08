@@ -10,6 +10,7 @@ implementing several probability density functions for different distributions (
 
 * will also write output to a file. This is important, otherwise, what's the point of having this program?
 
+* ALSO ADD ABILITY TO MANUALLY SELECT MEAN AND VARIANCE VALUES INSTEAD OF CALCULATING THEM.
 ---
 
 To compile run the following commands:
