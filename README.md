@@ -9,3 +9,17 @@ implementing several probability density functions for different distributions (
 * Calculating mean and variance hasn't been implemented yet. I'll do that when I have time. For now, the values are fixed (zero mean, variance = 1).
 
 * will also write output to a file. This is important, otherwise, what's the point of having this program?
+
+---
+
+To compile run the following commands:
+```
+$cd src
+```
+```
+$gcc -o gauss main_distribution.c distribution.c -I ../include
+```
+
+```
+$./guass
+```
